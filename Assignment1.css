@@ -160,5 +160,8 @@ img {
 	right: 100px;
 }
 
-
+/* Hide posts initially */
+#p1-wrap, #p2-wrap, #p3-wrap, #p4-wrap {
+	display:none;
+}
 
